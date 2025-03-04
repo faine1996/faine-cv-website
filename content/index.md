@@ -1,14 +1,17 @@
+<!--
 ---
 title: "Faine Angel - Backend Developer"
 layout: default
 ---
-
+-->
 # Faine Angel  
+### Backend Developer
 
 📞 **Phone:** 053.373.4110  
 📧 **Email:** faineangel69@gmail.com  
-🔗 **[LinkedIn](https://www.linkedin.com/in/faine-angel-493797181/)**  
-🔗 **[GitHub](https://github.com/faine1996)**  
+🔗 Visit my [LinkedIn](https://www.linkedin.com/in/faine-angel-493797181/) profile.  
+🔗 Check out my projects on [GitHub](https://github.com/faine1996).
+
 
 ---
 
@@ -33,15 +36,11 @@ BSc in **Genetics and Biochemistry**, seeking full-time **Backend Developer** an
 
 ---
 
-## Projects  
+### Projects
 
-### **[Screenshot API](https://github.com/faine1996/screenshot-api)** *(Backend Developer)*  
-- Developed a **Dockerized Python/Flask-based API** to capture dynamic website screenshots.  
-- **Tech Stack:** Python (Flask), Selenium/Puppeteer, Paramiko (SSH), python-dotenv, urllib3.  
+🔹 Check out my [Screenshot API](https://github.com/faine1996/screenshot-api) – A Dockerized API that captures website screenshots using Flask, Selenium, and Puppeteer.  
 
-### **[Image Search App](https://github.com/faine1996/image_search_app)** *(Backend Developer)*  
-- Developed and deployed a **Dockerized image search engine** using Flask and FAISS.  
-- **Tech Stack:** Flask, Docker, FAISS, CLIP (OpenAI), NumPy, Streamlit, shared Docker volumes.  
+🔹 Explore my <a href="https://github.com/faine1996/image_search_app" target="_blank">Image Search App</a> – A Flask-based image search engine using FAISS and OpenAI’s CLIP.  
 
 ---
 
