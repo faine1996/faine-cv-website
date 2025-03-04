@@ -70,7 +70,3 @@ BSc in **Genetics and Biochemistry**, seeking full-time **Backend Developer** an
 - **Other:** Windows Task Scheduler, Basic Linux, HTML, CSS.  
 
 ---
-
-💼 **Let's Connect!**  
-🔗 **[LinkedIn](https://www.linkedin.com/in/faine-angel-493797181/)**  
-🔗 **[GitHub](https://github.com/faine1996)**
